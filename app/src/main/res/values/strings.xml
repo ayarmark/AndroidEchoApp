@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EchoApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="please_type_in_text_here">Please type in text here</string>
+    <string name="aidel_s_attempt_at_echo_app_homework">Aidel\'s attempt at Echo App Homework</string>
+</resources>
